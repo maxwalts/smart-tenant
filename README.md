@@ -1,4 +1,4 @@
-# house-me-now 
+# smart-tenant 
 A smart contract to handle a lease agreement between two parties. 
 Written for Blockchain@Michigan, August 2020.
 
@@ -42,3 +42,4 @@ Written for Blockchain@Michigan, August 2020.
 ### Testing
 
 ### Future
+pull requests welcome!
