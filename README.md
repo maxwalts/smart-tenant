@@ -1,6 +1,5 @@
 # smart-tenant 
 A smart contract to handle a lease agreement between two parties. 
-Written for Blockchain@Michigan, August 2020.
 
 ### Rules
 - Parties can only negotiate the contract before it has been signed
